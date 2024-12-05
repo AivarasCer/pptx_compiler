@@ -1,2 +1,2 @@
-# ppx_compiler
+# pptx_compiler
 A program to automate creating a PowerPoint presentations.
